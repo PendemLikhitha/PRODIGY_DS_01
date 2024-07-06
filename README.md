@@ -48,7 +48,8 @@ plt.show()
 ```
 
 # Bar chart for gender distribution
-![Screenshot 2024-07-03 191904](https://github.com/PendemLikhitha/ProdigyInfoTech_TASK1/assets/159911587/8d9f25a2-62b5-44e4-8fff-60eef84004c2)
+![Screenshot 2024-07-06 215200](https://github.com/PendemLikhitha/PRODIGY_DS_01/assets/159911587/7f3d27d0-3d31-4e7c-99c6-fc6f2853d5b2)
+
 
 
 ```python
@@ -61,4 +62,5 @@ plt.ylabel('Count')
 plt.show()
 ```
 # Histogram for age distribution
-![Screenshot 2024-07-03 191853](https://github.com/PendemLikhitha/ProdigyInfoTech_TASK1/assets/159911587/3278beb8-80ca-4ead-9748-fdd16ac820c4)
+![Screenshot 2024-07-06 215211](https://github.com/PendemLikhitha/PRODIGY_DS_01/assets/159911587/c05c142c-1ec4-4f66-bdd7-919a1fb80620)
+
